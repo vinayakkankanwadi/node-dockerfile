@@ -1,0 +1,16 @@
+{
+  "name": "docker-tutorial",
+  "version": "1.0.0",
+  "description": "mean in a docker",
+  "main": "app.js",
+  "author": "Somename",
+  "repository": "git repo",
+  "license": "MIT",
+  "contributors": [
+    "some contributors"
+  ],
+  "dependencies": {
+    "pg": "^4.4.1",
+    "retry": "^0.7.0"
+  }
+}
