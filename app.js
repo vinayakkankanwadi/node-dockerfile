@@ -16,4 +16,3 @@ operation.attempt(function() {
     if(!e) console.log("Hello Pg!")
   })
 })
-
